@@ -1,3 +1,4 @@
+720d178 Refactored Statement printer Task 2.1
 376ae3a Added Git logs to log.txt Task 1.2
 092cd87 Fixed CheckStyle Errors in Task 1.1
 f53c867 Initial commit
