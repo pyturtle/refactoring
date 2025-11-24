@@ -1,3 +1,4 @@
+76a892e Refactored statement function Task 2.4
 2021602 Refactored statement function Task 2.3
 06bbaab Refactored Statement printer getVolumeCredits Task 2.2
 720d178 Refactored Statement printer Task 2.1
